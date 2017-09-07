@@ -69,16 +69,16 @@ $quote_array = array(
             </div>
 
             <div class="panel panel-primary">
-                <div class="panel-heading">El Photo</div>
+                <div class="panel-heading">About Me</div>
                 <div class="panel-body">
-                <img width = 200 src="images/ExtensionFlag.png">
+                <p>I am a pretty normal person. I like to travel, eat really good food and spend time with nice people. Originally from the midwest, I have lived all over the country. Currently living outside the country but will return soon.</p>
                 </div>
             </div>
 
             <div class="panel panel-primary">
-                <div class="panel-heading">About Me</div>
+                <div class="panel-heading">El Photo</div>
                 <div class="panel-body">
-                <p>I am a pretty normal person. I like to travel, eat really good food and spend time with nice people. Originally from the midwest, I have lived all over the country. Currently living outside the country but will return soon.</p>
+                <img width = 200 src="images/ExtensionFlag.png">
                 </div>
             </div>
 
