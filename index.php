@@ -55,7 +55,7 @@ $quote_array = array(
         <title>Gregory Coleman</title>
         <meta charset=utf-8>
         <meta name="viewport" content="width=device-width, initial-scale=1"><!-- mobile first -->
-        <link href="https://bootswatch.com/cerulean/bootstrap.min.css" rel="stylesheet type='text/css'">
+        <link href="https://bootswatch.com/cerulean/bootstrap.min.css" rel="stylesheet" type="text/css">
     </head>
     <body>
         <div class="container">
@@ -78,7 +78,7 @@ $quote_array = array(
             <div class="panel panel-primary">
                 <div class="panel-heading">El Photo</div>
                 <div class="panel-body">
-                <img width = 200 src="images/ExtensionFlag.png">
+                <img width = 200 src="images/ExtensionFlag.png" alt="Extension Flag">
                 </div>
             </div>
 
@@ -86,7 +86,7 @@ $quote_array = array(
                 <div class="panel-heading">7 Things About Me</div>
                 <div class="panel-body">
                     <ul>
-                    <li>I will spend most of the year Taipei (台北，台灣).</li>
+                    <li>I will spend most of the year in Taipei (台北，台灣).</li>
                     <li>I work in San Francisco.</li>
                     <li>I speak English, Chinese and enough French to embarrass myself.</li>
                     <li>I eat my Chili with Beans.</li>
