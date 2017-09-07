@@ -77,7 +77,7 @@ $quote_array = array(
                     </div>
                     
                     <div class="panel-body">
-                        <img src="images/headshot2.png"
+                        <img src="images/ExtensionFlag.png"
                     </div>
                     
                     <div class="panel-body">
