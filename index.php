@@ -83,7 +83,7 @@ $quote_array = array(
             </div>
 
             <div class="panel panel-primary">
-                <div class="panel-heading">6 Things About Me</div>
+                <div class="panel-heading">7 Things About Me</div>
                 <div class="panel-body">
                     <ul>
                     <li>I will spend most of the year Taipei (台北，台灣).</li>
